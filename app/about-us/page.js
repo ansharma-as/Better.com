@@ -33,7 +33,7 @@ export default function AboutUs() {
             not you. Better.com CEO, Vishal Garg, set out to change that.
           </p>
           <button className="px-6 py-3 bg-green-600 text-white rounded-md hover:bg-green-700">
-            Read Vishal's story
+            Read Vishal&aposs story
           </button>
         </div>
 
