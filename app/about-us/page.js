@@ -16,7 +16,7 @@ export default function AboutUs() {
           Our mission
         </p>
         <p className="flex w-[80%] mx-auto text-5xl font-bold ">
-          We&aposre making homeownership simpler, faster — and most importantly,
+          We&pos;re making homeownership simpler, faster — and most importantly,
           more accessible for all Americans.
         </p>
       </div>
@@ -27,13 +27,13 @@ export default function AboutUs() {
           <p className="text-3xl font-semibold">The status quo is broken</p>
           <p className="text-gray-700 w-md">
             The traditional processes around homeownership are opaque and
-            stressful. Fees aren’t transparent and some are simply outrageous in
+            stressful. Fees aren&pos;t transparent and some are simply outrageous in
             size. Traditional mortgage lending is rife with unnecessary fees and
-            slow, painful processes. It’s a system set up to benefit insiders —
+            slow, painful processes. It&pos;s a system set up to benefit insiders —
             not you. Better.com CEO, Vishal Garg, set out to change that.
           </p>
           <button className="px-6 py-3 bg-green-600 text-white rounded-md hover:bg-green-700">
-            Read Vishal&aposs story
+            Read Vishal&apos;s story
           </button>
         </div>
 
@@ -45,7 +45,7 @@ export default function AboutUs() {
 
       <div className="bg-[#1d723e] w-full p-24 space-y-6 mx-auto">
         <p className="text-4xl font-extrabold  text-white">
-          How we&aposre changing things
+          How we&apos;re changing things
         </p>
 
         <p className="text-md font-semibold text-white">
@@ -53,11 +53,11 @@ export default function AboutUs() {
           trillion business, and mortgages account for $15 trillion. Yet home
           finance operates in the same way it has for decades — through opaque
           systems and expensive intermediaries whose interests are misaligned
-          with consumers&apos.
+          with consumer&pos;s.
         </p>
         <p className="text-md font-semibold text-white">
           That&aposs why Better.com is redefining the homeownership process from the
-          ground up. We&aposre using technology to make it faster and more
+          ground up. We&pos;re using technology to make it faster and more
           efficient, and humans to help make it friendly and enjoyable.
         </p>
       </div>
