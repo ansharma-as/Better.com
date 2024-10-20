@@ -27,10 +27,10 @@ This project is a clone of specific pages from the Better.com website, replicati
 
 Replica deployed pages:
 
-- [Home]([https://better.com](https://better-com.netlify.app/))
-- [About Us]([https://better.com/about-us/](https://better-com.netlify.app/about-us))
-- [Mortgage Calculator]((https://better-com.netlify.app/mortgage-calculator))
-- [Start Page]((https://better-com.netlify.app/start))
+- [Home](https://better-com.netlify.app/)
+- [About Us](https://better-com.netlify.app/about-us)
+- [Mortgage Calculator](https://better-com.netlify.app/mortgage-calculator)
+- [Start Page](https://better-com.netlify.app/start)
 
 
 ## Features
@@ -64,9 +64,12 @@ Follow these steps to set up the project locally:
 1. **Clone the repository**:
 
    ```bash<img width="1454" alt="Screenshot 2024-10-21 at 2 19 56 AM" src="https://github.com/user-attachments/assets/e2517aff-9fd6-4c83-ad23-21e8a32f4456">
+git clone https://github.com/ansharma-as/Better.com
+
+
 <img width="1448" alt="Screenshot 2024-10-21 at 2 19 41 AM" src="https://github.com/user-attachments/assets/b2572ac5-fcae-42fa-a280-15dbd839718a">
 <img width="1451" alt="Screenshot 2024-10-21 at 2 18 57 AM" src="https://github.com/user-attachments/assets/81f71d51-453a-4eac-b53b-7d02f4f5a5aa">
 <img width="1450" alt="Screenshot 2024-10-21 at 2 18 15 AM" src="https://github.com/user-attachments/assets/c3e34905-7239-429b-8612-99672cf140e6">
 <img width="1452" alt="Screenshot 2024-10-21 at 2 18 05 AM" src="https://github.com/user-attachments/assets/53e22c2b-df15-40ad-b4bb-353b96bb7ba0">
 
-   git clone https://github.com/ansharma-as/Better.com
+   
