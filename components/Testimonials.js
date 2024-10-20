@@ -60,7 +60,7 @@ const Testimonial = () => {
       {/* Right Section */}
       <div className="mt-8 lg:mt-0 lg:ml-12 text-center lg:text-left lg:w-1/2 pl-10">
         <h1 className="text-6xl font-bold text-gray-800">
-          Find out why we're better.
+          Find out why we re better.
         </h1>
         <p className="mt-4 text-gray-600 text-xl">{testimonials[activeTab].quote}</p> 
         <button className="mt-6 px-6 py-3 bg-green-700 text-white rounded-md text-lg">

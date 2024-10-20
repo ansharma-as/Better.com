@@ -116,7 +116,7 @@ const start = () => {
       {/* Main Section */}
       <main className="bg-white text-center py-20 px-5 shadow-sm mt-10">
         <h2 className="text-2xl font-semibold text-gray-700 mb-8">
-          Hi, I'm Betsy! <br /> What can I help you with?
+          Hi, I&aposm Betsy! <br /> What can I help you with?
         </h2>
 
         <div className="space-y-6 ">
@@ -156,7 +156,7 @@ const start = () => {
         {/* Additional Info */}
         <div className="bg-green-50 p-8 mt-12 rounded-md max-w-lg mx-auto">
           <h3 className="text-gray-700 font-semibold">
-            After a few questions, you'll unlock:
+            After a few questions, you&aposll unlock:
           </h3>
           <ul className="text-gray-600 mt-4 space-y-3 text-left">
             <li>✅ Custom mortgage rates</li>

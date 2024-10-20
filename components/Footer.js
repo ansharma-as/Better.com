@@ -16,8 +16,9 @@ const Footer = () => {
             </p>
             <h3 className="text-xl font-semibold text-green-700 mb-2">Better Mortgage</h3>
             <p className="text-gray-700 mb-4">
-              We can’t wait to say “Welcome home.” Apply 100% online, with expert customer support.
-            </p>
+  We can&apos;t wait to say &ldquo;Welcome home.&rdquo; Apply 100% online, with expert customer support.
+</p>
+
             <h3 className="text-xl font-semibold text-green-700 mb-2">Better Real Estate</h3>
             <p className="text-gray-700 mb-4">
               Connect with a local Better Real Estate Partner Agent to find out all the ways you can save.
@@ -103,19 +104,20 @@ const Footer = () => {
 
       <div className="mt-8 p-6 text-sm">
         
-        <p className="text-xs">
-          1 Better Mortgage’s One Day Mortgage™ promotion offers qualified
-          customers who provide certain required financial
-          information/documentation to Better Mortgage within 4 hours of locking
-          a rate on a mortgage loan the opportunity to receive an underwriting
-          determination from Better Mortgage within 24 hours of their rate lock.
-          The underwriting determination is subject to customary terms,
-          including fraud and anti-money laundering checks, that take place
-          pre-closing and which may trigger additional required documentation
-          from the customer. Better Mortgage does not guarantee that initial
-          underwriting approval will result in a final underwriting approval.
-          See One Day Mortgage™ Terms and Conditions.
-        </p>
+      <p className="text-xs">
+  1 Better Mortgage’s One Day Mortgage&trade; promotion offers qualified
+  customers who provide certain required financial
+  information/documentation to Better Mortgage within 4 hours of locking
+  a rate on a mortgage loan the opportunity to receive an underwriting
+  determination from Better Mortgage within 24 hours of their rate lock.
+  The underwriting determination is subject to customary terms,
+  including fraud and anti-money laundering checks, that take place
+  pre-closing and which may trigger additional required documentation
+  from the customer. Better Mortgage does not guarantee that initial
+  underwriting approval will result in a final underwriting approval.
+  See One Day Mortgage&trade; Terms and Conditions.
+</p>
+
         <p className="text-xs mt-4">
           2Better Mortgage’s One Day HELOC™ promotion offers qualified customers
           who provide certain required financial information/documentation to

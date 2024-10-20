@@ -1,5 +1,6 @@
-"use client"
+"use client";
 import React, { useState } from 'react';
+import Image from 'next/image'; // Import Next.js Image component
 
 const productInfo = [
   {
@@ -70,7 +71,7 @@ const ProductInfo = () => {
               <a href={product.link} className="text-green-700 font-bold text-lg">
                 <svg className="w-6 h-6 inline-block" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 12h14M12 5l7 7-7 7"></path></svg>
               </a>
-              <img src={product.image} alt={product.title} className="w-32 rounded-lg shadow-md"/>
+              <Image src={product.image} alt={product.title} width={128} height={128} className="rounded-lg shadow-md"/>
             </div>
           </div>
         ))}
