@@ -1,5 +1,6 @@
 "use client";
 import React, { useState } from "react";
+import Image from "next/image"; // Importing Next.js Image component
 
 const testimonials = {
   Arian: {
@@ -31,11 +32,13 @@ const Testimonial = () => {
       <div className="flex flex-col w-full lg:w-1/2 bg-white rounded-lg relative">
         {/* Image section with adjusted height */}
         <div className="relative h-[500px] lg:h-[500px] rounded-xl">
-          {/* Dynamically change the image based on the active tab */}
-          <img
+          {/* Using Next.js Image component for optimization */}
+          <Image
             src={testimonials[activeTab].image}  
             alt="Testimonial"
-            className=" w-auto h-full object-contain mx-auto rounded-xl"
+            layout="fill" // This allows the image to fill its parent container
+            objectFit="contain" // Maintains aspect ratio
+            className="mx-auto rounded-xl"
           />
         </div>
 
@@ -60,7 +63,7 @@ const Testimonial = () => {
       {/* Right Section */}
       <div className="mt-8 lg:mt-0 lg:ml-12 text-center lg:text-left lg:w-1/2 pl-10">
         <h1 className="text-6xl font-bold text-gray-800">
-          Find out why we re better.
+          Find out why we’re better.
         </h1>
         <p className="mt-4 text-gray-600 text-xl">{testimonials[activeTab].quote}</p> 
         <button className="mt-6 px-6 py-3 bg-green-700 text-white rounded-md text-lg">
