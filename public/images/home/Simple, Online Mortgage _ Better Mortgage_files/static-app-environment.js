@@ -1,0 +1,1 @@
+var STATIC_APP_ENVIRONMENT='prod'
