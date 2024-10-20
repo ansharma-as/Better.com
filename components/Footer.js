@@ -12,28 +12,44 @@ const Footer = () => {
           {/* Column 1 */}
           <div className="bg-white p-4">
             <p className="text-gray-700 mb-4">
-              Better is a family of companies serving all your homeownership needs.
+              Better is a family of companies serving all your homeownership
+              needs.
             </p>
-            <h3 className="text-xl font-semibold text-green-700 mb-2">Better Mortgage</h3>
+            <h3 className="text-xl font-semibold text-green-700 mb-2">
+              Better Mortgage
+            </h3>
             <p className="text-gray-700 mb-4">
-  We can&apos;t wait to say &ldquo;Welcome home.&rdquo; Apply 100% online, with expert customer support.
-</p>
+              We can&apos;t wait to say &ldquo;Welcome home.&rdquo; Apply 100%
+              online, with expert customer support.
+            </p>
 
-            <h3 className="text-xl font-semibold text-green-700 mb-2">Better Real Estate</h3>
+            <h3 className="text-xl font-semibold text-green-700 mb-2">
+              Better Real Estate
+            </h3>
             <p className="text-gray-700 mb-4">
-              Connect with a local Better Real Estate Partner Agent to find out all the ways you can save.
+              Connect with a local Better Real Estate Partner Agent to find out
+              all the ways you can save.
             </p>
-            <h3 className="text-xl font-semibold text-green-700 mb-2">Better Cover</h3>
+            <h3 className="text-xl font-semibold text-green-700 mb-2">
+              Better Cover
+            </h3>
             <p className="text-gray-700 mb-4">
-              Shop, bundle, and save on insurance coverage for home, auto, life, and more.
+              Shop, bundle, and save on insurance coverage for home, auto, life,
+              and more.
             </p>
-            <h3 className="text-xl font-semibold text-green-700 mb-2">Better Inspect</h3>
+            <h3 className="text-xl font-semibold text-green-700 mb-2">
+              Better Inspect
+            </h3>
             <p className="text-gray-700 mb-4">
-              Get free repair estimates, 24-hour turnarounds on reports, and rest easy with our 100-day inspection guarantee.
+              Get free repair estimates, 24-hour turnarounds on reports, and
+              rest easy with our 100-day inspection guarantee.
             </p>
-            <h3 className="text-xl font-semibold text-green-700 mb-2">Better Settlement Services</h3>
+            <h3 className="text-xl font-semibold text-green-700 mb-2">
+              Better Settlement Services
+            </h3>
             <p className="text-gray-700">
-              Get transparent rates when you shop for title insurance all in one convenient place.
+              Get transparent rates when you shop for title insurance all in one
+              convenient place.
             </p>
           </div>
 
@@ -71,12 +87,20 @@ const Footer = () => {
 
           {/* Column 4 */}
           <div className="bg-white p-4">
-            <h3 className="text-xl font-semibold text-black mb-4">Contact Us</h3>
+            <h3 className="text-xl font-semibold text-black mb-4">
+              Contact Us
+            </h3>
             <ul className="text-gray-700 space-y-2">
-              <li><strong>Email:</strong> hello@better.com</li>
-              <li><strong>Phone:</strong> 415-523-8837</li>
+              <li>
+                <strong>Email:</strong> hello@better.com
+              </li>
+              <li>
+                <strong>Phone:</strong> 415-523-8837
+              </li>
             </ul>
-            <h3 className="text-xl font-semibold text-black mt-6 mb-4">Legal</h3>
+            <h3 className="text-xl font-semibold text-black mt-6 mb-4">
+              Legal
+            </h3>
             <ul className="text-gray-700 space-y-2">
               <li>NMLS Consumer Access</li>
               <li>Privacy Policy</li>
@@ -91,35 +115,46 @@ const Footer = () => {
         {/* Social Media */}
         <div className="flex space-x-4 mt-8 ml-4 p-6">
           <Link href="#">
-            <img src="/images/footer/facebook.png" alt="Facebook" className="w-6 h-6" />
+            <img
+              src="/images/footer/facebook.png"
+              alt="Facebook"
+              className="w-6 h-6"
+            />
           </Link>
           <Link href="#">
-            <img src="/images/footer/insta.jpeg" alt="Instagram" className="w-6 h-6" />
+            <img
+              src="/images/footer/insta.jpeg"
+              alt="Instagram"
+              className="w-6 h-6"
+            />
           </Link>
           <Link href="#">
-            <img src="/images/footer/linkedin.svg" alt="LinkedIn" className="w-6 h-6" />
+            <img
+              src="/images/footer/linkedin.svg"
+              alt="LinkedIn"
+              className="w-6 h-6"
+            />
           </Link>
         </div>
       </div>
 
       <div className="mt-8 p-6 text-sm">
-        
-      <p className="text-xs">
-  1 Better Mortgage’s One Day Mortgage&trade; promotion offers qualified
-  customers who provide certain required financial
-  information/documentation to Better Mortgage within 4 hours of locking
-  a rate on a mortgage loan the opportunity to receive an underwriting
-  determination from Better Mortgage within 24 hours of their rate lock.
-  The underwriting determination is subject to customary terms,
-  including fraud and anti-money laundering checks, that take place
-  pre-closing and which may trigger additional required documentation
-  from the customer. Better Mortgage does not guarantee that initial
-  underwriting approval will result in a final underwriting approval.
-  See One Day Mortgage&trade; Terms and Conditions.
-</p>
+        <p className="text-xs">
+          1 Better Mortgage&apos;s One Day Mortgage&trade; promotion offers qualified
+          customers who provide certain required financial
+          information/documentation to Better Mortgage within 4 hours of locking
+          a rate on a mortgage loan the opportunity to receive an underwriting
+          determination from Better Mortgage within 24 hours of their rate lock.
+          The underwriting determination is subject to customary terms,
+          including fraud and anti-money laundering checks, that take place
+          pre-closing and which may trigger additional required documentation
+          from the customer. Better Mortgage does not guarantee that initial
+          underwriting approval will result in a final underwriting approval.
+          See One Day Mortgage&trade; Terms and Conditions.
+        </p>
 
         <p className="text-xs mt-4">
-          2Better Mortgage’s One Day HELOC™ promotion offers qualified customers
+          2Better Mortgage&apos;s One Day HELOC&trade; promotion offers qualified customers
           who provide certain required financial information/documentation to
           Better Mortgage within 4 hours of locking a rate on a HELOC loan the
           opportunity to receive an underwriting determination from Better
@@ -128,7 +163,7 @@ const Footer = () => {
           anti-money laundering checks, that take place pre-closing and which
           may trigger additional required documentation from the customer.
           Better Mortgage does not guarantee that initial underwriting approval
-          will result in final underwriting approval. See One Day Heloc™ Terms
+          will result in final underwriting approval. See One Day Heloc&trade; Terms
           and Conditions.
         </p>
         <p className="text-xs mt-4">
@@ -138,7 +173,7 @@ const Footer = () => {
           online account within 24 hours of application, closing is scheduled
           for the earliest available date and time, and a notary is readily
           available. Funding timelines may vary and may be longer if an
-          appraisal is required to calculate a borrower’s home value.
+          appraisal is required to calculate a borrower&pos;s home value.
         </p>
 
         <hr className="w-full mx-auto border-gray-400 mt-10 " />
@@ -168,7 +203,7 @@ const Footer = () => {
           through its wholly owned subsidiary Better Real Estate California
           Inc., is a licensed real estate brokerage and maintains its corporate
           headquarters at 325-41 Chestnut Street, Suite 826, Philadelphia, PA
-          19106. Here is a full listing of Better Real Estate, LLC’s license
+          19106. Here is a full listing of Better Real Estate, LLC&pos;s license
           numbers. Better Real Estate, LLC provides access to real estate
           brokerage services via its nationwide network of partner brokerages
           and real estate agents (“Better Real Estate Partner Agents”). Equal
@@ -188,7 +223,9 @@ const Footer = () => {
           New York State Housing and Anti-Discrimination Notice
         </p>
 
-        <p className="text-xs mt-6 text-decoration-line: underline">New York Standard Operating Procedures </p>
+        <p className="text-xs mt-6 text-decoration-line: underline">
+          New York Standard Operating Procedures{" "}
+        </p>
 
         <p className="text-xs mt-6">
           Texas Real Estate Commission: Information About Brokerage Services |
@@ -209,7 +246,7 @@ const Footer = () => {
         <p className="text-xs mt-6">
           Insurance quotes and policies are offered through Better Cover, LLC. A
           Pennsylvania Resident Producer Agency. License #881593. Here is a full
-          listing of Better Cover, LLC’s license numbers.
+          listing of Better Cover, LLC&pos;s license numbers.
         </p>
 
         <p className="text-xs mt-6">

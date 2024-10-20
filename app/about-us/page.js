@@ -16,7 +16,7 @@ export default function AboutUs() {
           Our mission
         </p>
         <p className="flex w-[80%] mx-auto text-5xl font-bold ">
-          We’re making homeownership simpler, faster — and most importantly,
+          We&aposre making homeownership simpler, faster — and most importantly,
           more accessible for all Americans.
         </p>
       </div>
@@ -45,7 +45,7 @@ export default function AboutUs() {
 
       <div className="bg-[#1d723e] w-full p-24 space-y-6 mx-auto">
         <p className="text-4xl font-extrabold  text-white">
-          How we’re changing things
+          How we&aposre changing things
         </p>
 
         <p className="text-md font-semibold text-white">
@@ -53,11 +53,11 @@ export default function AboutUs() {
           trillion business, and mortgages account for $15 trillion. Yet home
           finance operates in the same way it has for decades — through opaque
           systems and expensive intermediaries whose interests are misaligned
-          with consumers’.
+          with consumers&apos.
         </p>
         <p className="text-md font-semibold text-white">
-          That’s why Better.com is redefining the homeownership process from the
-          ground up. We’re using technology to make it faster and more
+          That&aposs why Better.com is redefining the homeownership process from the
+          ground up. We&aposre using technology to make it faster and more
           efficient, and humans to help make it friendly and enjoyable.
         </p>
       </div>
